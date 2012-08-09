@@ -3,7 +3,6 @@
 //  heap
 //
 //  Created by reagler on 8/1/12.
-//  Copyright (c) 2012 reagler. All rights reserved.
 //
 
 #include <stdio.h>

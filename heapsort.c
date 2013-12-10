@@ -59,4 +59,6 @@ int main()
     for (int i = 0; i < 13; i++) {
         printf("%d ", A[i]);
     }
+    printf("\n");
+    return 0;
 }

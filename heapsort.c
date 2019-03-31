@@ -1,9 +1,9 @@
-//
-//  heapsort.c
-//  heap
-//
-//  Created by reagler on 8/1/12.
-//
+/*
+ *  heapsort.c
+ *  heap
+ *
+ *  Created by reagler on 8/1/12.
+*/
 
 #include <stdio.h>
 
